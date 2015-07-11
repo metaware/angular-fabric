@@ -1,0 +1,18 @@
+{
+  "name": "angular-fabric",
+  "version": "0.0.1",
+  "homepage": "https://github.com/metaware/angular-fabric",
+  "authors": [
+    "Jasdeep Singh <narang.jasdeep@gmail.com>"
+  ],
+  "description": "Angular + FabricJS integration",
+  "main": "dist/angular-fabric.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
