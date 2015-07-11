@@ -1,0 +1,27 @@
+{
+  "name": "angular-fabric",
+  "version": "0.0.1",
+  "description": "Angular + FabricJS Integration",
+  "main": "gulpfile.js",
+  "directories": {
+    "example": "example",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/metaware/angular-fabric.git"
+  },
+  "author": "Jasdeep Singh <jasdeep@metawarelabs.com> (http://jasdeep.ca/)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/metaware/angular-fabric/issues"
+  },
+  "devDependencies": {
+    "uglify": "~0.1.5",
+    "gulp-concat": "~2.6.0",
+    "gulp-uglify": "~1.2.0"
+  }
+}
